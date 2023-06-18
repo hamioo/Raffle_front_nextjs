@@ -103,7 +103,7 @@ export default function RaffleEntrance() {
                         Entrance Fee : {ethers.utils.formatUnits(entranceFee, "ether")} ETH
                     </div>
                     <div className="font-sans mt-1">Number of players : {numberOfPlayers}</div>
-                    <div className="font-sans mt-1">Recent Winner : {recentWinner}</div>
+                    <div className="font-sans mt-1">LAST WINNER : {recentWinner}</div>
                 </div>
             ) : (
                 <div>no Raffle address detected</div>
