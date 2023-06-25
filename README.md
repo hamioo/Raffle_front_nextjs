@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+It's actully the FrontEnd looks of the [Hardhat Raffle](https://github.com/hamioo/Hardhat-Smartcontract-Raffle) project.
+
 ## Getting Started
 
 First, run the development server:
